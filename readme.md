@@ -56,8 +56,6 @@ Architecture demo showcasing:
 - PWA installation
 - Scalable backend structure
 
-*(Coming soon)*
-
 ---
 
 ### 🔹 CSS Array Parser
