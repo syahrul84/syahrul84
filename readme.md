@@ -47,13 +47,12 @@ I enjoy building systems that are **simple, scalable, and reliable**.
 
 ## 📌 Featured Projects
 
-### 🔹 Real-Time Chat System (Laravel + Reverb + PWA)
+### 🔹 Real-Time Chat System (Laravel + Reverb)
 Architecture demo showcasing:
 
 - WebSocket communication
 - Pub/Sub messaging
 - Private and channel messaging
-- PWA installation
 - Scalable backend structure
 
 ---
