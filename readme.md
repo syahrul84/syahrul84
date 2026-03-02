@@ -96,7 +96,7 @@ https://github.com/syahrul84/ElvisAPI
 ## 📫 Contact
 
 - GitHub: https://github.com/syahrul84
-- LinkedIn: *(add your link here)*
+- LinkedIn: https://www.linkedin.com/in/syahrul-farhan-rabain-56837172/
 
 ---
 
